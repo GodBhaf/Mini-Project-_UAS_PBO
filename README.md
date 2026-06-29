@@ -1,4 +1,3 @@
-# Mini-Project-_UAS_PBO
 # Sistem Pemesanan Makanan
 
 ## Deskripsi
@@ -17,20 +16,20 @@ UAS_PBO/
 │
 ├── Restoran.java       (Class utama program)
 ├── Menu.java          (Data menu makanan)
-├── Order.java         (Data pesanan customer)
+├── Order.java        (Data pesanan dan perhitungan subtotal)
 ├── Person.java        (Abstract class induk)
 ├── Customer.java      (Data customer)
-├── Payment.java       (Abstract class pembayaran)
-└── CashPayment.java   (Pembayaran tunai)
+├── Payment.java      (Abstract class proses pembayaran)
+└── CashPayment.java  (Pembayaran tunai dan perhitungan kembalian)
 
 ## Konsep OOP
-Class dan Object
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
-Abstract Class
-Exception Handling
+- Class dan Object  
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Abstract Class  
+- Exception Handling  
 
 ## Cara Menjalankan Program
 1. Pastikan JDK telah terinstal.
@@ -38,7 +37,7 @@ Exception Handling
 3. Jalankan program java Restoran
 
 ## Anggota Kelompok
--	KAYSHA RATU AZZIRA
--	KENNY NAUFAL RIZAL ABADI
--	MUHAMMAD FAHRI ABRAR
--	FADILAH SUBHAN
+- KAYSHA RATU AZZIRA  
+- KENNY NAUFAL RIZAL ABADI  
+- MUHAMMAD FAHRI ABRAR  
+- FADILAH SUBHAN  
